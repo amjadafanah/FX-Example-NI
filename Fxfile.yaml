@@ -35,7 +35,7 @@ jobs:
     cron: '0 0 12 * * ?'
     issueTracker: 
       name: Nisum/Dev-IssueTracker
-      url: https://github.com/amjadafanah/FX-Example-1
+      url: https://github.com/amjadafanah/FX-Example-NI
       account: Default_GitHub
     notifications: 
       - name: Nisum/Dev-Slack-Notification
